@@ -1,6 +1,9 @@
 # Tarjeta Navideña 3D
 
 Una tarjeta navideña interactiva con un árbol 3D y efectos de nieve creada con Three.js.
+![image](https://github.com/user-attachments/assets/8bcf1fcc-b3a4-4e3c-bebd-e47a66209734) 
+![image](https://github.com/user-attachments/assets/3cbd418b-5451-44c7-9876-dbe1f35c327e)
+
 
 ## Características
 
